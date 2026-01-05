@@ -8,7 +8,7 @@ sisi_depan    = 81.6;
 panjang       = 40.69;
 
 // Square ke-1
-square_x = 60.25;
+square_x = 61.25;
 square_y = 81.6;
 
 // Trapesium ke-1
@@ -29,7 +29,7 @@ square4_x = 24.44;
 square4_y = 58;
 
 // Square ke-5
-square5_x = 29.62;
+square5_x = 37.62;
 square5_y = 126.89;
 
 // ==========================
@@ -42,7 +42,7 @@ r_kuping = diameter_kuping / 2;
 // PARAMETER KUPING TRAPESIUM (Square-5)
 // ==========================
 kuping_outer  = 21.02;   // lebar luar kuping
-kuping_height = 7.42;    // tinggi kuping (Y)
+kuping_height = 12.42;    // tinggi kuping (Y)
 
 // ==========================
 // MODEL 2D (UNTUK PDF / DXF)
